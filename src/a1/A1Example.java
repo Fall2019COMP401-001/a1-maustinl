@@ -11,7 +11,7 @@ public class A1Example {
 		
 		System.out.println("Your Java version: " + System.getProperty("java.version"));
 		
-		// Set up scanner object to read space-separated values
+		// Set u scanner object to read space-separated values
 		// from console input
 		
 		Scanner scan = new Scanner(System.in);
